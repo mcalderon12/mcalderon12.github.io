@@ -10,4 +10,4 @@ Dec 12th:
 - I inserted a picture of myself and a different background in the main.css file
 - I looked for a way online to make the "contact me" but work on the website, but it looks like more than I'm able to do right now
 Dec 14th:
-- I start putting in my songs into the "My Work Section"
+- I start putting in my songs into the "My Work" section, but I realize I can't get the seeking feature to work in the audio player. I'm following acceptable forms of embedding audio so I don't get what's going on
