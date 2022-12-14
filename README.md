@@ -14,3 +14,4 @@ Dec 12th:
 
 Dec 14th:
 - I start putting in my songs into the "My Work" section, but I realize I can't get the seeking feature to work in the audio player. I'm following acceptable forms of embedding audio so I don't get what's going on
+- so it turns out, it doesn't work when I'm running it in local server, but once the website loads, it's all good
