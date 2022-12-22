@@ -121,23 +121,31 @@
 									<a href="https://www.instagram.com/manuelcalderonofficial/" class="icon brands fa-instagram" style="color:purple"><span>Instagram</span></a>
 									<a href="https://www.facebook.com/Manuel-Calderon-104653114353017/" class="icon brands fa-facebook" style="color:blue"><span>Facebook</span></a>
 								</nav>
-								<form action="contact.php" method="post" id="form" class="contact-form">
+								<form action="https://formspree.io/f/mrgvzybn" method="POST" enctype="multipart/form-data">
 									<div>
 										<div class="row">
 											<div class="col-6 col-12-medium">
-												<input type="text" name="cf_name" placeholder="Name" />
+												<label>
+													<input type="text" name="name" placeholder="Name">
+												</label>
 											</div>
 											<div class="col-6 col-12-medium">
-												<input type="text" name="cf_email" placeholder="Email" />
+												<label>
+													<input type="email" name="email" placeholder="Email">
+												</label>
 											</div>
 											<div class="col-12">
-												<input type="text" name="subject" placeholder="Subject" />
+												<label>
+													<input type="text" name="subject" placeholder="Subject">
+												</label>
 											</div>
 											<div class="col-12">
-												<textarea name="cf_message" placeholder="Message" rows="6"></textarea>
+												<label>
+													<textarea name="message" placeholder="Message"></textarea>
+												</label>
 											</div>
 											<div class="col-12">
-												<input type="submit" value="Send Message" />
+												<button type="submit">Send</button>
 											</div>
 										</div>
 									</div>
